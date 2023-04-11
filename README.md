@@ -5,7 +5,7 @@
 Monitoring Covid.
 
 <img src="https://raw.githubusercontent.com/hifiaz/covid19/master/flutter_02.png" width="250">
-<img src="https://raw.githubusercontent.com/hifiaz/covid19/master/flutter_03.png" width="250">
+
 
 
 
